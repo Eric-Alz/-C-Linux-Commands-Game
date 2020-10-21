@@ -1,2 +1,2 @@
-# -C-Linux-Commands-Game
-Game that tests your knowledge of linux terminal commands.
+# (C++) Linux Commands Game
+This game tests your knowledge of linux terminal commands. Implements a linked list in C++ to dynamically store and access nodes that contain commands and a description of what the command does. Commands and descriptions are contained in a csv file, the program reads the file and stores each command and the description of what the command does and adds it to the linked list.
