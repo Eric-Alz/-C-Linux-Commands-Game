@@ -1,0 +1,29 @@
+free,Used the free command to get a detailed report on the system's memory usage.
+clear,Clears terminal screen.
+grep,Used to search text or searches the given file for lines containing a match to the given strings or words.
+alias,Used to avoid typing long commands or as a means to correct incorrect input.
+who,Used to get information about currently logged in user on to system.
+ps,Used for viewing the processes running on the system.
+g++,Used for preprocessing compilation assembly and linking of source code to generate an executable file.
+ssh,Allows you to log into remote host.
+rm,Used to remove objects such as files directories symbolic links and so on from the file system like UNIX.
+finger,Used to look up users on a remote machine.
+exit,Used to exit the shell where it is currently running.
+df,Used to display information related to file systems about total space and available space. If no file name is given it displays the space available on all currently mounted file systems.
+cat,Allows us to create single or multiple files view contain of file concatenate files and redirect output in terminal or files.
+top,Displays processor activity of your Linux box and also displays tasks managed by kernel in real-time.
+make,Builds executable programs and libraries from source code.
+man,Display the user manual of any command that we can run on the terminal.
+mv,Moves files or directories from one place to another.
+rmdir,Removes empty directories from the filesystem in Linux.
+ls,Lists contents of given directory.
+find,Used to search and locate the list of files and directories based on conditions you specify for files that match the arguments.
+echo,Used to display line of text/string that are passed as an argument.
+chown,Used to change the owner and group of files directories and links.
+chmod,Used to change the access permissions of file system objects.
+kill,Used to manually terminate processes.
+gcc,Compiles executable files (mostly C and C++).
+scp,Used to copy files between servers.
+cp,Used to copy files or group of files or directory.
+mkdir,Allows user to create a new working directory.
+pwd,Prints current working directory.
